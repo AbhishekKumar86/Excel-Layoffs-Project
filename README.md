@@ -19,12 +19,12 @@ Slicers & Filters → Interactive dashboard design
 
 📊 Dashboard Features
 
-Top Companies Layoff (World) - Amazon, Meta, and Tesla top the list.
-Top 10 Cities Layoffs- Bengaluru, Gurugram, and Mumbai lead in layoffs.
-Industry-wise Layoffs - Retail, Consumer, and Transportation industries are most impacted.
-Country-wise Layoffs - The United States has the highest layoff (400 K+), followed by India.
-Top Companies Layoff (India) - Byjus, Swiggy, and Ola top the list.
-Yearly Layoffs Trend (2020–2024) → 2023 witnessed the highest layoffs (~263k).
+- **Top Companies Layoff (World):** Amazon, Meta, and Tesla top the list.  
+- **Top 10 Cities Layoffs:** Bengaluru, Gurugram, and Mumbai lead in layoffs.  
+- **Industry-wise Layoffs:** Retail, Consumer, and Transportation industries are most impacted.  
+- **Country-wise Layoffs:** The United States has the highest layoff (400K+), followed by India.  
+- **Top Companies Layoff (India):** Byjus, Swiggy, and Ola top the list.  
+- **Yearly Layoffs Trend (2020–2024):** 2023 witnessed the highest layoffs (~263k). 
 
 🔎 Key Insights
 

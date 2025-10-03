@@ -28,9 +28,9 @@ Provide business insights for workforce and market analysis.
 
 🔎 Key Insights
 
--2023 was the worst year for layoffs, recording the maximum workforce reductions.
--Amazon, Meta, and Tesla were the top three companies with the highest layoffs.
--Bengaluru (India) was the top city for layoffs in India, reflecting its large tech hub presence.
--Retail and Consumer industries faced the largest job cuts, 
+- 2023 was the worst year for layoffs, recording the maximum workforce reductions.
+- Amazon, Meta, and Tesla were the top three companies with the highest layoffs.
+- Bengaluru (India) was the top city for layoffs in India, reflecting its large tech hub presence.
+- Retail and Consumer industries faced the largest job cuts, 
 
 

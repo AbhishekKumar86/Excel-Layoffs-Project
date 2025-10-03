@@ -13,9 +13,9 @@ Detect locations with the highest concentration of layoffs.
 Provide business insights for workforce and market analysis.
 
 🛠️ Tools Used
-Microsoft Excel → Data cleaning, analysis, visualization
-Pivot Tables & Charts → Aggregated metrics
-Slicers & Filters → Interactive dashboard design
+**Microsoft Excel → Data cleaning, analysis, visualization
+**Pivot Tables & Charts → Aggregated metrics
+**Slicers & Filters → Interactive dashboard design
 
 📊 Dashboard Features
 
